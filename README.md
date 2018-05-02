@@ -1,7 +1,7 @@
 # Brazil Trading Plot
 ## Plotting international trades
 
-An educational experience plotting educacional trades between Brazil and the rest of the world.
+An educational experience plotting comercial trades between Brazil and the rest of the world.
 
 I did it just to introduce myself on Matplotlib and help my girlfriend on an college homework.
 
